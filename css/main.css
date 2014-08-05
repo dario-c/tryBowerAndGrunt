@@ -1,5 +1,8 @@
 #button{padding:15px;
         border-radius: 5px;
+        font-size:3em;
         background-color:limegreen;
         color:white;
+        border-right: 5px solid grey;
+        border-bottom: 5px solid grey;
         }
