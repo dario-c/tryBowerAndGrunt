@@ -1,8 +1,24 @@
 #button{padding:15px;
         border-radius: 5px;
-        font-size:3em;
-        background-color:limegreen;
+        font-size:2em;
+        background-color:#BFAA8F;
         color:white;
-        border-right: 5px solid grey;
-        border-bottom: 5px solid grey;
-        }
+        border-right: 5px solid #8C675A;
+        border-bottom: 5px solid #8C675A;
+        width:200px;
+        display: block;
+        margin: 0 auto;
+        margin-top:10px;
+        text-shadow: black 1px 1px;
+      }
+
+#header{border:1px solid grey;
+        text-align: center;
+        color:white;
+        background-color: #8C675A;
+        font-size: 2em;
+        text-shadow: black 1px 1px;
+      
+
+#main{text-align: center;
+      }
